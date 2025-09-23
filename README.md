@@ -41,7 +41,7 @@ I’m in the process of uploading my projects here on GitHub. Stay tuned! 🚀
 
 ## 📫 Connect with Me
 - **LinkedIn:** [Elahe Modarres](https://www.linkedin.com/in/elahe-modarres)  
-- **Email:** elahemod004@gmail.com  
+- **Email:** elahe.mod004@gmail.com  
 
 ---
 ✨ *“Always learning, always growing.”*  
