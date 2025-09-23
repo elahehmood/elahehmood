@@ -1,16 +1,47 @@
-<h1 align="center">Hi 👋, I'm Elahe</h1>
-<h3 align="center">A passionate CS student from Iran</h3>
+# Hi, I'm Elahe 👋  
 
-- 🌱 I’m currently learning **Software Engineering Course AUT**
+🎓 **Computer Science Student**  
+💡 Interested in **Artificial Intelligence, Databases, and Game Development**  
 
-- 📫 How to reach me **elahemod004@gmail.com**
+---
 
-- ⚡ Fun fact **If you try to hurt me — Expecto Patronum!**
+## 👩‍💻 About Me
+- I’m currently studying **Computer Science** and exploring different fields to find my true passion in coding.  
+- So far, I’ve worked with:  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>  
+  </p>  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/elahe modarres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elahe modarres" height="30" width="40" /></a>
-</p>
+- I’ve taken a **Database course** and practiced a bit with:  
+  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>  
+  </p>  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+- My current goal is to **improve my skills, learn frameworks, and build meaningful projects**.  
+- I enjoy learning new technologies and experimenting to see what excites me the most.  
+
+---
+
+## ⚡ Fun Fact
+✨ *If you try to hurt me — **Expecto Patronum!*** 🪄  
+
+---
+
+## 📂 Projects
+I’m in the process of uploading my projects here on GitHub. Stay tuned! 🚀  
+
+---
+
+## 📊 GitHub Stats
+![Elahe's GitHub stats](https://github-readme-stats.vercel.app/api?username=elahehmood&show_icons=true&theme=radical)  
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [Elahe Modarres](https://www.linkedin.com/in/elahe-modarres)  
+- **Email:** elahemod004@gmail.com  
+
+---
+✨ *“Always learning, always growing.”*  
